@@ -3,7 +3,7 @@
 
 **СЛЕДИТЕ ЗА ОБНОВЛЕНИЯМИ! ТЕКУЩАЯ ВЕРСИЯ: 2.0**
 
-![PaperScroll PHP](https://img.shields.io/badge/Paper%20Scroll%20PHP-1.0-purple.svg?style=flat-square)
+![PaperScroll PHP](https://img.shields.io/badge/Paper%20Scroll%20PHP-2.0-purple.svg?style=flat-square)
 ![PHP 8.0.0+](https://img.shields.io/badge/PHP-8.0.0+-yellow.svg?style=flat-square)
 ![license: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 
